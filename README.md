@@ -1,5 +1,6 @@
 # Christmas-Letter
-2020 Christmas Letter
+## 2020 Christmas Letter
 
-![](/sample.png)
-<a href="https://oneonlee.github.io/Christmas-Letter/" target="_blank"><img src="/sample.png" alt="Christmas Letter"></a><br>
+*Click to Go*<br>
+<br>
+<center><a href="https://oneonlee.github.io/Christmas-Letter/" target="_blank"><img src="/sample.png" alt="Christmas Letter" width="70%"></a></center><br>
